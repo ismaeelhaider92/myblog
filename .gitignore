@@ -4,3 +4,13 @@
 venv/
 
 *.pyc
+
+frontend/\.DS_Store
+
+myblog/\.DS_Store
+
+\.DS_Store
+
+*.lock
+
+node_modules/

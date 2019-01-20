@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'myblog.backend',
-    'rest_framework'
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'blog',
         'USER': 'postgres',
         'PASSWORD': '',
-        'HOST': 'localhost',
+        'HOST': '192.168.99.100',
         'PORT': '15432',
     }
 }
